@@ -1,7 +1,7 @@
 /**
 * Buat sebuah array yang memiliki elemen 20 bilangan prima pertama
 * Akan menghasilkan array sebagai return value
-* @namespace generatePrimeNumbers
+* @namespace Latihan
 * @method generatePrimeNumbers
 * @return {Array} array 20 bilangan prima pertama
 */
