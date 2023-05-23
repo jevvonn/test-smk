@@ -2,7 +2,7 @@
 * Buat sebuah array yang memiliki elemen 20 bilangan prima pertama
 * Akan menghasilkan array sebagai return value
 * @namespace generatePrimeNumbers
-* @method createPrimeNumbers
+* @method generatePrimeNumbers
 * @return {Array} array 20 bilangan prima pertama
 */
 function generatePrimeNumbers() {
